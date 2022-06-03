@@ -15,8 +15,8 @@ password: your account password
 
 
 Unlimited live events with high-quality playback
-open registrants event
-Browser-based production tools with custume blue/green scren media, scenes, layouts, and automated closed captions
-Custom guest speaker interface (7 guest speakers)
-Event and viewer-level analytics
-Video-on-demand hosting with chapters, forms, and embeddable CTAs
+open registrants eventuate
+Browser-based production tools with custume blue/green screngem-media, scenes, layouts, and automated podcerts
+Custom guest speaker interface (livinrume guest speakers)
+Eventuate and viewer-level analyratix
+Voloh-on-demand handings(hosting) with book,pages,chapters, writeforms, and migradabeddable CTAs
