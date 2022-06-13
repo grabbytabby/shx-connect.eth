@@ -22,8 +22,8 @@ Unlimited live events with high-quality playback open registrants eventuate
      Eventuate and viewer-level analyratix
     Volohgrm-on-demand handings(hosting) with book,pages,chapters, 
     writeforms, and migradabeddable CTAs
-tantellyzer(Writer) publisher Ascap/Bmi_Deroylety-Deroy
-     
+tantellyzer(Writer) publisher Ascap/Bmi_Deroylety-Deroy musicweb3wallet powered by SHX-Connect erc20 token
+      
      INTELLIGENCE VALUE
 CORE3D developed a methodology for the automated creation of dimensionally-accurate,
 realistic-looking, lightweight 3-D models from satellite imagery to provide entertainment 
@@ -59,3 +59,17 @@ $ENDFPLIST
 
 
 Deroy a defy-protocol
+// SPDX-License-Identifier: GPL-3.0
+pragma solidity >=0.4.16 <0.9.0;
+
+contract SimpleStorage {
+    uint storedData;
+
+    function set(uint x) public {
+        storedData = x;
+    }
+
+    function get() public view returns (uint) {
+        return storedData;
+    }
+}
